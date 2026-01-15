@@ -48,10 +48,6 @@ Replace `<version>` with the version number you downloaded (e.g., `0.1.0`).
 -  [gruntfuggly.todo-tree](https://open-vsx.org/extension/gruntfuggly/todo-tree) - A quick and easy way to find and manage your TODO's, FIXME's, etc.
 -  [mhutchie.git-graph](https://open-vsx.org/extension/mhutchie/git-graph) - A graphical interface for viewing Git commit history and more.
 
-### Python
-
--  [ms-pyright.pyright](https://open-vsx.org/extension/ms-pyright/pyright) - A static type checker for Python.
-
 ### Other languages and helpers
 
 -  [mikestead.dotenv](https://open-vsx.org/extension/mikestead/dotenv) - `.env` syntax higlighting.
