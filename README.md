@@ -13,6 +13,28 @@ The extensions are also great in VS Code (or any other VS Code-based IDE), but t
 
 Recommendations, suggestions, comments and PRs are welcome!
 
+## Installation
+
+### Install from Releases
+
+1. Download the latest `.vsix` file from the [Releases page](https://github.com/emraher/positron-eer/releases)
+2. Open Positron
+3. Open the Extensions view (Cmd+Shift+X on macOS, Ctrl+Shift+X on Windows/Linux)
+4. Click the "..." menu at the top of the Extensions panel
+5. Select "Install from VSIX..."
+6. Navigate to and select the downloaded `.vsix` file
+7. Reload Positron when prompted
+
+All extensions in the pack will be automatically installed.
+
+### Install from Command Line
+
+```bash
+positron --install-extension positron-plus-1-e-<version>.vsix
+```
+
+Replace `<version>` with the version number you downloaded (e.g., `0.1.0`).
+
 ## Extensions
 
 ### Posit Extras
