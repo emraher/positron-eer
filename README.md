@@ -53,3 +53,36 @@ Recommendations, suggestions, comments and PRs are welcome!
 -  [gvelasq.tomorrow-night-bright-r-classic](https://open-vsx.org/extension/gvelasq/tomorrow-night-bright-r-classic) - A theme inspired by Posit's implementation of the Tomorrow Night Bright theme in the RStudio IDE.
 -  [mechatroner.rainbow-csv](https://open-vsx.org/extension/mechatroner/rainbow-csv) - Highlights CSV files in different colors.
 -  [johnpapa.vscode-peacock](https://open-vsx.org/extension/johnpapa/vscode-peacock) - Subtly customize IDE appearance to differentiate between different project windows.
+
+## Additional Extensions
+
+### Additional Themes
+
+-  [catppuccin.catppuccin-vsc](https://open-vsx.org/extension/catppuccin/catppuccin-vsc) - Soothing pastel theme for Positron with warm and cool color variants.
+-  [dracula-theme.theme-dracula](https://open-vsx.org/extension/dracula-theme/theme-dracula) - Dark theme with vibrant, contrasting colors inspired by the Dracula color scheme.
+-  [pkief.material-icon-theme](https://open-vsx.org/extension/pkief/material-icon-theme) - Material Design icons for your file explorer with extensive file type coverage.
+
+### Python and Jupyter
+
+-  [meta.pyrefly](https://open-vsx.org/extension/meta/pyrefly) - Meta's Python language server with advanced type checking and code intelligence.
+-  [ms-python.debugpy](https://open-vsx.org/extension/ms-python/debugpy) - Python debugger extension for debugging Python scripts and applications.
+-  [ms-toolsai.jupyter](https://open-vsx.org/extension/ms-toolsai/jupyter) - Full Jupyter notebook support including interactive notebooks, cell outputs, and execution.
+-  [ms-toolsai.jupyter-keymap](https://open-vsx.org/extension/ms-toolsai/jupyter-keymap) - Jupyter-style keyboard shortcuts for working with notebooks.
+-  [ms-toolsai.vscode-jupyter-cell-tags](https://open-vsx.org/extension/ms-toolsai/vscode-jupyter-cell-tags) - Add and manage tags on Jupyter notebook cells.
+-  [ms-toolsai.vscode-jupyter-slideshow](https://open-vsx.org/extension/ms-toolsai/vscode-jupyter-slideshow) - Create slideshows from Jupyter notebooks using RISE.
+-  [ntluong95.positron-python-package-manager](https://open-vsx.org/extension/ntluong95/positron-python-package-manager) - Manage Python packages directly within Positron.
+
+### R Package Management
+
+-  [kv9898.positron-r-package-manager](https://open-vsx.org/extension/kv9898/positron-r-package-manager) - Manage R packages directly within Positron.
+
+### Development Tools
+
+-  [aaron-bond.better-comments](https://open-vsx.org/extension/aaron-bond/better-comments) - Improve code commenting by highlighting different types of comments with different colors.
+-  [DavidAnson.vscode-markdownlint](https://open-vsx.org/extension/DavidAnson/vscode-markdownlint) - Markdown linting and style checking for consistent documentation.
+-  [GrapeCity.gc-excelviewer](https://open-vsx.org/extension/GrapeCity/gc-excelviewer) - View Excel spreadsheets and CSV files directly in the editor.
+-  [ms-azuretools.vscode-docker](https://open-vsx.org/extension/ms-azuretools/vscode-docker) - Create, manage, and debug containerized applications with Docker support.
+-  [robole.file-bunny](https://open-vsx.org/extension/robole/file-bunny) - Quick file operations and navigation shortcuts for improved productivity.
+-  [rpinski.shebang-snippets](https://open-vsx.org/extension/rpinski/shebang-snippets) - Code snippets for shebang lines in various scripting languages.
+-  [SamEdwardes.right-click-open-here](https://open-vsx.org/extension/SamEdwardes/right-click-open-here) - Right-click context menu to open files and folders in Positron.
+-  [sumneko.lua](https://open-vsx.org/extension/sumneko/lua) - Lua language support with rich features including intellisense, diagnostics, and more.
