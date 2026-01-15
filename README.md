@@ -37,12 +37,7 @@ Replace `<version>` with the version number you downloaded (e.g., `0.1.0`).
 
 ## Extensions
 
-### Posit Extras
-
--  [posit.shiny](https://open-vsx.org/extension/posit/shiny) - Develop, preview and debug Shiny applications for R and Python.
--  [posit.publisher](https://open-vsx.org/extension/posit/publisher) - Publish and share your Python and R content on Posit Connect.
--  [quarto.quarto](https://open-vsx.org/extension/quarto/quarto) - Adds extensive support for the [Quarto](https://quarto.org/) scientific and technical publishing system.
--  [posit.air-vscode](https://open-vsx.org/extension/posit/air-vscode) - Automatically format R code in scripts and Quarto documents.
+**Note**: This pack excludes extensions that come bundled with Positron by default (Ruff, Pyrefly, Jupyter suite, Shiny, Publisher, Air, Quarto, and GitHub Pull Requests), avoiding unnecessary duplication.
 
 ### Project Management
 
@@ -50,13 +45,11 @@ Replace `<version>` with the version number you downloaded (e.g., `0.1.0`).
 -  [brunnerh.file-properties-viewer](https://open-vsx.org/extension/brunnerh/file-properties-viewer) - View file properties without having to open the file.
 -  [eamodio.gitlens](https://open-vsx.org/extension/eamodio/gitlens) - Supercharge Git in Visual Studio Code with advanced views, powerful actions, and more.
 -  [github.vscode-github-actions](<https://open-vsx.org/extension/github/vscode-github-actions>) - View and open GitHub Actions directly from the sidebar.
--  [github.vscode-pull-request-github](https://open-vsx.org/extension/github/vscode-pull-request-github) - Interact with GitHub Pull Requests and Issues without leaving the IDE.
 -  [gruntfuggly.todo-tree](https://open-vsx.org/extension/gruntfuggly/todo-tree) - A quick and easy way to find and manage your TODO's, FIXME's, etc.
 -  [mhutchie.git-graph](https://open-vsx.org/extension/mhutchie/git-graph) - A graphical interface for viewing Git commit history and more.
 
 ### Python
 
--  [charliermarsh.ruff](https://open-vsx.org/extension/charliermarsh/ruff) - Ruff is a fast and configurable Python linter with many features.
 -  [ms-pyright.pyright](https://open-vsx.org/extension/ms-pyright/pyright) - A static type checker for Python.
 
 ### Other languages and helpers
@@ -84,17 +77,9 @@ Replace `<version>` with the version number you downloaded (e.g., `0.1.0`).
 -  [dracula-theme.theme-dracula](https://open-vsx.org/extension/dracula-theme/theme-dracula) - Dark theme with vibrant, contrasting colors inspired by the Dracula color scheme.
 -  [pkief.material-icon-theme](https://open-vsx.org/extension/pkief/material-icon-theme) - Material Design icons for your file explorer with extensive file type coverage.
 
-### Python and Jupyter
+### Package Management
 
--  [meta.pyrefly](https://open-vsx.org/extension/meta/pyrefly) - Meta's Python language server with advanced type checking and code intelligence.
--  [ms-python.debugpy](https://open-vsx.org/extension/ms-python/debugpy) - Python debugger extension for debugging Python scripts and applications.
--  [ms-toolsai.jupyter](https://open-vsx.org/extension/ms-toolsai/jupyter) - Full Jupyter notebook support including interactive notebooks, cell outputs, and execution.
--  [ms-toolsai.jupyter-keymap](https://open-vsx.org/extension/ms-toolsai/jupyter-keymap) - Jupyter-style keyboard shortcuts for working with notebooks.
--  [ms-toolsai.vscode-jupyter-cell-tags](https://open-vsx.org/extension/ms-toolsai/vscode-jupyter-cell-tags) - Add and manage tags on Jupyter notebook cells.
--  [ms-toolsai.vscode-jupyter-slideshow](https://open-vsx.org/extension/ms-toolsai/vscode-jupyter-slideshow) - Create slideshows from Jupyter notebooks using RISE.
 -  [ntluong95.positron-python-package-manager](https://open-vsx.org/extension/ntluong95/positron-python-package-manager) - Manage Python packages directly within Positron.
-
-### R Package Management
 
 -  [kv9898.positron-r-package-manager](https://open-vsx.org/extension/kv9898/positron-r-package-manager) - Manage R packages directly within Positron.
 
