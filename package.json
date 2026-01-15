@@ -2,7 +2,7 @@
   "name": "positron-eer",
   "displayName": "Positron EER",
   "description": "A lightly-opinionated Positron extension pack for dev and data science.",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "publisher": "emraher",
   "icon": "logo.png",
   "repository": {

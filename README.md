@@ -1,5 +1,9 @@
 # Positron EER
 
+> **Forked from [Positron +1e](https://github.com/gadenbuie/positron-plus-1-e) by [Garrick Aden-Buie](https://github.com/gadenbuie)**
+>
+> This extension pack builds upon the excellent foundation created by Garrick, with additional extensions and customizations for my personal workflow.
+
 ## An Extension Pack for Positron
 
 This is a lightly-opinionated extension pack for [Positron](https://github.com/posit-dev/positron), a next-generation data science IDE.
