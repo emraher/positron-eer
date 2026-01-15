@@ -1,4 +1,4 @@
-# Positron +1e
+# Positron EER
 
 ## An Extension Pack for Positron
 
@@ -30,10 +30,10 @@ All extensions in the pack will be automatically installed.
 ### Install from Command Line
 
 ```bash
-positron --install-extension positron-plus-1-e-<version>.vsix
+positron --install-extension positron-eer-<version>.vsix
 ```
 
-Replace `<version>` with the version number you downloaded (e.g., `0.1.0`).
+Replace `<version>` with the version number you downloaded (e.g., `0.2.0`).
 
 ## Extensions
 
@@ -84,8 +84,8 @@ Replace `<version>` with the version number you downloaded (e.g., `0.1.0`).
 -  [aaron-bond.better-comments](https://open-vsx.org/extension/aaron-bond/better-comments) - Improve code commenting by highlighting different types of comments with different colors.
 -  [DavidAnson.vscode-markdownlint](https://open-vsx.org/extension/DavidAnson/vscode-markdownlint) - Markdown linting and style checking for consistent documentation.
 -  [GrapeCity.gc-excelviewer](https://open-vsx.org/extension/GrapeCity/gc-excelviewer) - View Excel spreadsheets and CSV files directly in the editor.
--  [ms-azuretools.vscode-docker](https://open-vsx.org/extension/ms-azuretools/vscode-docker) - Create, manage, and debug containerized applications with Docker support.
 -  [robole.file-bunny](https://open-vsx.org/extension/robole/file-bunny) - Quick file operations and navigation shortcuts for improved productivity.
 -  [rpinski.shebang-snippets](https://open-vsx.org/extension/rpinski/shebang-snippets) - Code snippets for shebang lines in various scripting languages.
 -  [SamEdwardes.right-click-open-here](https://open-vsx.org/extension/SamEdwardes/right-click-open-here) - Right-click context menu to open files and folders in Positron.
 -  [sumneko.lua](https://open-vsx.org/extension/sumneko/lua) - Lua language support with rich features including intellisense, diagnostics, and more.
+-  [tomoki1207.pdf](https://open-vsx.org/extension/tomoki1207/pdf) - Display PDF files directly in the editor.

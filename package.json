@@ -1,17 +1,17 @@
 {
-  "name": "positron-plus-1-e",
-  "displayName": "Positron +1e",
+  "name": "positron-eer",
+  "displayName": "Positron EER",
   "description": "A lightly-opinionated Positron extension pack for dev and data science.",
-  "version": "0.1.2",
-  "publisher": "grrrck",
+  "version": "0.2.0",
+  "publisher": "emraher",
   "icon": "logo.png",
   "repository": {
     "type": "git",
-    "url": "https://github.com/gadenbuie/positron-plus-1-e"
+    "url": "https://github.com/emraher/positron-eer"
   },
-  "homepage": "https://github.com/gadenbuie/positron-plus-1-e",
+  "homepage": "https://github.com/emraher/positron-eer",
   "bugs": {
-    "url": "https://github.com/gadenbuie/positron-plus-1-e/issues"
+    "url": "https://github.com/emraher/positron-eer/issues"
   },
   "engines": {
     "vscode": "^1.90.0"
@@ -38,7 +38,6 @@
     "mechatroner.rainbow-csv",
     "mhutchie.git-graph",
     "mikestead.dotenv",
-    "ms-azuretools.vscode-docker",
     "ms-vscode.live-server",
     "ntluong95.positron-python-package-manager",
     "pkief.material-icon-theme",
@@ -49,7 +48,8 @@
     "SamEdwardes.right-click-open-here",
     "stkb.rewrap",
     "streetsidesoftware.code-spell-checker",
-    "sumneko.lua"
+    "sumneko.lua",
+    "tomoki1207.pdf"
   ],
   "scripts": {
     "vsix": "npx @vscode/vsce package",

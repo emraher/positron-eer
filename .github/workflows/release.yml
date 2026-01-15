@@ -33,7 +33,7 @@ jobs:
       - name: Create Release
         uses: softprops/action-gh-release@v1
         with:
-          files: positron-plus-1-e-${{ steps.package_version.outputs.version }}.vsix
+          files: positron-eer-${{ steps.package_version.outputs.version }}.vsix
           generate_release_notes: true
           draft: false
           prerelease: false
