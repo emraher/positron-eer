@@ -49,13 +49,15 @@
     "stkb.rewrap",
     "streetsidesoftware.code-spell-checker",
     "sumneko.lua",
-    "tomoki1207.pdf"
+    "tomoki1207.pdf",
+    "Anthropic.claude-code"
   ],
   "scripts": {
     "vsix": "npx @vscode/vsce package",
     "publish:open-vsx": "env-cmd npx ovsx publish"
   },
   "devDependencies": {
-    "env-cmd": "^10.1.0"
+    "env-cmd": "^10.1.0",
+    "markdownlint-cli2": "^0.20.0"
   }
 }

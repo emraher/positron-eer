@@ -8,7 +8,7 @@
 
 This is a lightly-opinionated extension pack for [Positron](https://github.com/posit-dev/positron), a next-generation data science IDE.
 
-These are extensions I use in my daily work and that I feel round out the Positron experience. The extensions lean towards git-backed data science and dev work shared primarily on GitHub. 
+These are extensions I use in my daily work and that I feel round out the Positron experience. The extensions lean towards git-backed data science and dev work shared primarily on GitHub.
 
 The extensions are also great in VS Code (or any other VS Code-based IDE), but the pack is optimized for Positron in two ways:
 
@@ -86,6 +86,7 @@ Replace `<version>` with the version number you downloaded (e.g., `0.2.0`).
 ### Development Tools
 
 -  [aaron-bond.better-comments](https://open-vsx.org/extension/aaron-bond/better-comments) - Improve code commenting by highlighting different types of comments with different colors.
+-  [Anthropic.claude-code](https://open-vsx.org/extension/Anthropic/claude-code) - AI-powered coding assistant that helps you write, refactor, and understand code directly in your IDE.
 -  [DavidAnson.vscode-markdownlint](https://open-vsx.org/extension/DavidAnson/vscode-markdownlint) - Markdown linting and style checking for consistent documentation.
 -  [GrapeCity.gc-excelviewer](https://open-vsx.org/extension/GrapeCity/gc-excelviewer) - View Excel spreadsheets and CSV files directly in the editor.
 -  [robole.file-bunny](https://open-vsx.org/extension/robole/file-bunny) - Quick file operations and navigation shortcuts for improved productivity.
